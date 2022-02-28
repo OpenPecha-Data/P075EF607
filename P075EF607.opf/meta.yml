@@ -1,0 +1,44 @@
+id: P075EF607
+initial_creation_type: input
+source_metadata:
+  title: Chimé Pakmé Nyingtik
+  language: fr
+  description: Texts related to Chimé Pakmé Nyingtik (‘chi med ‘phags ma'i snying
+    thig), 'The Heart Essence of the Sublime Lady of Immortality', a longevity practice
+    discovered by Jamyang Khyentse Wangpo featuring White Tārā (in the form known
+    as Wish-fulfilling Wheel) in union with Avalokiteśvara (in the form known as Lord
+    of the Dance).
+  volume:
+    dc1ef40c796640e4a232262e8b8ac07f:
+      title: Introduction to Chimé Pakmé Nyingtik
+      parent: Introduction
+    0b135031a4c6465fa119060e2dbf9b7a:
+      title: 'The Sweet Ambrosia of Immortality: Concise Instructions on the Generation
+        and Completion Phases of the Single-Form Daily Practice of the Heart Essence
+        of the Sublime Lady of Immortality'
+      parent: Commentaries
+    b826be62a2fd4a10a9f8306e77e26f2d:
+      title: 'A Shortcut to the Siddhi of Immortality: Guru Yoga of Union with the
+        Three Deities of Long Life'
+      parent: Guru Yoga
+    90742f1554aa410e86bda2655233890b:
+      title: 'The Fount of Longevity: The Chimé Pakmé Nyingtik Lineage Prayer'
+      parent: Lineage Prayers
+    b54a229d8ae946e0bc054c6d35407128:
+      title: Brief Supplementary Text for Intensive Practice (Drupchö) of the Sublime
+        Lady of Immortality (Chimé Pakmé Nyingtik)
+      parent: Manuals
+    cda5c4c9e8864dacbf74d66d6ceddd4c:
+      title: Condensed Daily Practice of The Heart Essence of the Sublime Lady of
+        Immortality
+      parent: Sādhanas
+    0b58e989d5114658b41b9ae7b48d602d:
+      title: Activities for Uncovering Primordial Wisdom from the Chimé Pakmé Nyingtik,
+        ‘The Heart Essence of the Sublime Lady of Immortality’
+      parent: Sādhanas
+    010b431a78784a0da6cf1646e48e6d67:
+      title: The Single-Form Daily Practice from Chimé Pakmé Nyingtik (The Heart Essence
+        of the Sublime Lady of Immortality)
+      parent: Sādhanas
+created_at: '2022-03-01T03:11:24.459850'
+last_modified_at: '2022-03-01T03:11:24.459853'
